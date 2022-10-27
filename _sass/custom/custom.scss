@@ -1,0 +1,92 @@
+/* Remove gradated background image from nav bar menu items on hover or when selected (active) */
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+    background-image: none;
+}
+.nav-list .nav-list-item .nav-list-expander:hover {
+  background-image: none;
+}
+
+/* Remove gradated background image from site title on hover */
+.site-title:hover {
+  background-image: none;
+}
+
+/* Change colour of top (parent) level nav bar menu items */
+.nav-list .nav-list-item .nav-list-link,
+.nav-list .nav-list-item .nav-list-link.active   {
+  color: #143E76;
+}
+
+/* Change font size of nav bar menu items */
+.nav-list .nav-list-item {
+  font-size: 18px !important;
+}
+
+/* Change background colour of the main body header */
+.main-header {
+  background-color: #24292f;
+}
+
+/* Change background colour of the search box in the main body header */
+
+.search {
+  background-color: #24292f;
+  color: #000000;
+}
+
+.search-input-wrap {
+  background-color: #24292f;
+  color: #000000;
+}
+
+
+
+/* Change background colour of the sidebar header */
+.site-header {
+  background-color: #24292f;
+}
+
+/* Change size of sidebar */ 
+
+$toc-width: 232px !default;
+
+.navigation {
+  @media (min-width: 50rem) {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    overflow-y: auto;
+    flex: 1 1 auto; 
+  }
+}
+
+
+/* make search box look like a box */
+.search-input-wrap {
+    background-color: #24292f;
+}
+
+.search-input {height: auto;     margin-top: 0.35em;}
+
+
+/*remove side bar border to make the faux top bar*/
+.side-bar {border:0}
+
+/* auxiliary links: remove hover image, color and hover color */
+a.site-button {
+  color: #f7b78d;
+}
+
+a.site-button:hover{
+  color:#fff;
+  background-image: none;
+}
+
+/*top bar width same as screen width */
+body {
+  background: #fff url(https://www.lib.cam.ac.uk/sites/www.lib.cam.ac.uk/files/fauxbg59.png) top left repeat-x;
+}
+
+.side-bar{
+  background: #E1EAF7 url(https://www.lib.cam.ac.uk/sites/www.lib.cam.ac.uk/files/fauxbg59.png) top left repeat-x;
+}
