@@ -3,18 +3,39 @@ layout: default
 title: Home
 nav_order: 1
 ---
+# CAYLIN SMITH
 
-Based at the University Library, the main research library of the University of Cambridge, Digital Preservation at Cambridge University Libraries is about ensuring that digital materials within collections can be accessed by readers both now and in the future.
+## ABOUT
 
-This website is the central repository for information about 
-* [CUL Digital Preservation](https://digitalpreservation-docs.lib.cam.ac.uk/about-cul-digital-preservation.html) and the [Digital Preservation Programme](https://digitalpreservation-docs.lib.cam.ac.uk/cul-dp-programme.html)
-* [Information about services](https://digitalpreservation-docs.lib.cam.ac.uk/services.html) that support digital collection management 
-* [Digital Preservation Policy](https://digitalpreservation-docs.lib.cam.ac.uk/cul-digital-preservation-policy.html) 
-* [Research and outreach](https://digitalpreservation-docs.lib.cam.ac.uk/research-and-outreach.html)
+Caylin Smith (b. 1988, Canada) is an audiovisual archivist, digital preservationist, and project manager. She has extensive experience working for libraries, museums, and archives in Canada, the Netherlands, the United States, and the United Kingdom.
 
-For information about ongoing research and works in progress, visit the [CUL Digital Preservation blog](https://digitalpreservation-blog.lib.cam.ac.uk/).
+Caylin has many professional interests, including 
 
-If you have any questions, or want to discuss possibilities for collaboration, [send us an email](mailto:digitalpreservation@lib.cam.ac.uk).
+* Audiovisual and digital preservation
+
+* Digital collection management
+
+* Information architecture
+
+* Curation of digital heritage 
+
+* Digital publishing
+
+* Digital strategy 
+
+* User services for digital collection content 
+
+## CURRENT WORK AND BACKGROUND
+
+Caylin Smith is Head of Digital Preservation at Cambridge University Library, where she set up the Digital Preservation team and leads an ambitious program to develop a cutting-edge digital preservation service. 
+
+She is co-investigator of the Archive of Tomorrow project that investigates misinformation and preservation of online health information, and a member of the Peer Review College of the Arts and Humanities Research Council. 
+
+Caylin has a wealth of experience in digital collection management in libraries, archives, and museums in the United Kingdom, the United States, the Netherlands, and Canada. 
+
+Prior to joining the University of Cambridge, Caylin was Senior Project Manager of the UK Legal Deposit Libraries and Preservation Repository Manager at the British Library. She holds an MA in Preservation from the University of Amsterdam and a BA (Hons.) in English (Cultural Studies) from McGill University.
+
+
 
 
 
